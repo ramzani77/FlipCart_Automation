@@ -35,25 +35,25 @@ FlipCart_Automation/ │ ├── src/ │ ├── main/ │ │ └── ja
 The following test cases are included in this project:
 
 TestCase01: Go to www.flipkart.com, search for "Washing Machine," sort by popularity, and print the count of items with a rating less than or equal to 4 stars.
+
 TestCase02: Search for "iPhone," print the titles and discount percentages of items with more than 17% discount.
+
 TestCase03: Search for "Coffee Mug," filter by 4 stars and above, and print the titles and image URLs of the 5 items with the highest number of reviews.
+
 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 🤝 Contributing
+
 Contributions are welcome! Please submit a pull request or open an issue for discussion.
 
 📞 Contact
+
 For inquiries, please contact Your Name or open an issue in this repository.
 
 🌟 Acknowledgements
+
 Selenium Documentation
 TestNG Documentation
 
-
-### Tips to Make it Attractive:
-- Use **emojis** to add personality and flair to the sections.
-- Add **badges** for build status, test coverage, or version using services like Shields.io.
-- Consider including screenshots or GIFs of your automation in action if applicable.
-
-Feel free to adjust any sections to better fit your project’s details!
