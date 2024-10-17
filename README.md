@@ -40,20 +40,4 @@ TestCase02: Search for "iPhone," print the titles and discount percentages of it
 
 TestCase03: Search for "Coffee Mug," filter by 4 stars and above, and print the titles and image URLs of the 5 items with the highest number of reviews.
 
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-🤝 Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for discussion.
-
-📞 Contact
-
-For inquiries, please contact Your Name or open an issue in this repository.
-
-🌟 Acknowledgements
-
-Selenium Documentation
-TestNG Documentation
 
